@@ -101,8 +101,8 @@ analytics:
 # Site Author
 author:
   name             : "Sumit Shrestha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am IT specialist"
+  avatar           : "/images/5um17.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computing Information Systems portfolio"
   location         : "Kathmandu, NEPAL"
   email            : "mailto.sumit.shrestha@gmail.com"
   uri              :
@@ -133,7 +133,7 @@ author:
 
 
 # Reading Files
-include: ["_pages"]
+include:
   - .htaccess
   - _pages
 exclude:
